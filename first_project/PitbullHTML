@@ -1,0 +1,31 @@
+<!DOCTYPE html> 
+<html>
+    <head>
+       <!--cssstyle--> 
+        <title> Pitbulls</title>
+        <link href="https://fonts.googleapis.com/css?family=Aref+Ruqaa|Great+Vibes" rel="stylesheet">
+       <link rel="stylesheet" href="Generalinformation.css">
+    </head>
+    <body>
+          <img src="./bannerpitbull5.jpg">
+          
+  <div class="container">
+    <div class="topnav">
+      <a href="./PitbullsWebsite.html">Home</a>
+      <a href="./Beauty.html">General Information</a>
+      <a href="#Breed Characteristics">Breed Characteristics</a>
+      <a href="#History">History</a>
+      <a href="#Rescue Groups">Rescue Groups</a>
+      <a href="#Tattoos">Tattoos</a>
+      <a href="#Pittbullstories">Pitbull Stories</a>
+    </div>
+  </div>
+</div>
+<br>
+<br>
+<br>
+
+<img src="http://www.stickpng.com/assets/images/5847f60fcef1014c0b5e48a2.png">
+
+</body>
+</html>
