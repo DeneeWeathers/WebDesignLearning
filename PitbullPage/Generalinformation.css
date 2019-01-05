@@ -1,0 +1,134 @@
+
+* {
+	margin: 0;
+	padding: 0; 
+}
+
+h1 { 
+	font-family: 'Great Vibes', cursive;
+	clear: both;
+	dispay: inline-block;
+	margin: auto;
+	align-content: center;
+}
+
+h2 { 
+	font-family: 'Great Vibes', cursive;
+	align-content: center;
+}
+}
+body{ 
+	background-image: "http://desktop-backgrounds-org.s3.amazonaws.com/high-def-high-definition_0.jpg";
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+/*Navigation bar text*/
+nav{
+	width: 100%
+	height: 100px;
+	background-color: red;
+}
+}
+ .bg-img {
+  /* The image used */
+  background: url("http://www.internalvoices.org/transfile/big/56/565874_dog-bone-wallpaper.jpg");
+
+  min-height: 400px;
+  width: 200px;
+  margin: 0 auto;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  /* Needed to position the navbar */
+  position: relative;
+}
+
+
+
+/* Navbar links */
+.topnav a {
+  float: left;
+  color: red;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background: url("https://cdn1.vectorstock.com/i/1000x1000/04/15/background-with-dog-paw-print-and-bone-vector-1360415.jpg");
+
+}
+ 
+ body { 
+ 	color: black; }
+            
+  h1 {
+  	font-size: 100px; color:black;
+    text-align:center; } 
+  h2 { 
+  	font-size: 40px; color:black; text-align: center;}
+
+  image { 
+  	width: 10px;
+  	height: 20px;
+  }
+  /* Image gallery*/
+  body { 
+  	background-color: black;
+}
+.Homepagetext {
+	color: white;
+	margin-left: 40px;
+	margin-right: 40px;
+	margin-top: 60px;
+	margin-bottom: 40px;
+	border-style: dotted;
+	padding: 20px;
+	border-width: 2px;
+	border-color: #C70039;
+	
+
+
+}
+
+.gallery-container {
+	display: flex;
+	margin: 0 25px;
+}
+
+.gallery {
+  border: 1px solid #ccc;
+  float: left;
+  width: 200px;
+  height: 180px;
+  flex: 1;
+  margin: 0 15px;
+}
+
+.gallery:hover {
+  border: 1px solid #777;
+}
+
+.gallery img {
+  width: 100%;
+  height: 100%;
+}
+
+.gallery:hover .desc,
+.desc:hover {
+	text-decoration: underline;
+}
+
+.desc {
+  padding: 15px;
+  text-align: center;
+  color: white;
+}
+
+
+}
+

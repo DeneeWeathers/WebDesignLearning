@@ -1,0 +1,168 @@
+
+* {
+	margin: 0
+	padding: 0; 
+}
+
+h1 { 
+	font-family: 'Great Vibes', cursive;
+	clear: both
+	dispay: inline-block
+	margin: auto;
+	align-content: center;
+
+}
+
+h2 { 
+	font-family: 'Great Vibes', cursive;
+	align-content: center;
+}
+ 
+}
+body { 
+	background-color: white;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+nav{
+	width: 100%
+	height: 100px;
+	background-color: red;
+
+}
+
+ul{
+	
+}
+
+ul li {
+	list-style: none;
+	display: inline-block;
+	float: left;
+	background: url(background: url(https://detroitdogrescue.com/wp-content/uploads/2017/04/test-1-1170x1170.jpg);
+}
+ul li a {
+	text-decoration: none;
+	font-size: 16px; 
+	font-family: arial
+	color: black;
+	padding:0 20px;
+
+}
+ }
+.img-circle {
+    border-radius: 50%;
+    float: right;
+
+
+}
+ .bg-img {
+  /* The image used */
+  background: url("http://www.internalvoices.org/transfile/big/56/565874_dog-bone-wallpaper.jpg");
+
+  min-height: 380px;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  /* Needed to position the navbar */
+  position: relative;
+}
+
+/* Position the navbar container inside the image */
+.container {
+  position: absolute;
+  margin: 20px;
+  width: auto;
+}
+
+/* The navbar */
+.topnav {
+  overflow: hidden;
+  background: url("https://cdn1.vectorstock.com/i/1000x1000/04/15/background-with-dog-paw-print-and-bone-vector-1360415.jpg");
+}
+
+/* Navbar links */
+.topnav a {
+  float: left;
+  color: red;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background: url("https://cdn1.vectorstock.com/i/1000x1000/04/15/background-with-dog-paw-print-and-bone-vector-1360415.jpg");
+  
+}
+}
+
+
+
+}
+ 
+ body{ color: black; }
+            
+  h1 {font-size: 100px; color:black;
+   text-align:center; } 
+  h2{ font-size: 40px; color:black; text-align: center;}
+
+page-review {
+   .rating {
+    display: flex;
+    justify-content: center;
+
+  }
+
+
+
+   .rating>span:hover:before {
+   content: "\2605";
+     position: absolute;
+  }
+
+ .rating {
+   unicode-bidi: bidi-override;
+    direction: rtl;
+   }
+  .rating>span:hover:before,
+  .rating>span:hover~span:before {
+   content: "\2605";
+   position: absolute;
+  }
+
+  .rating {
+   unicode-bidi: bidi-override;
+  direction: rtl;
+  }
+ .rating>span {
+   display: inline-block;
+   position: relative;
+  width: 1.1em;
+  font-size: 40px;
+  color: #F2AF01;
+  }
+  .rating>span:hover:before,
+  .rating>span:hover~span:before {
+   content: "\2605";
+   position: absolute;
+  }
+
+  p{
+  font-size: 20px;
+ }
+
+  .review-description{
+  margin-bottom: 50px;
+}
+
+.rating {
+	color: yellow; 
+}
+  
+
+  
